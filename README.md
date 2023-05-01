@@ -1,4 +1,4 @@
-# compoundInterestCalculator
+# Compound Interest Calculator
 Java Spring Boot Microservice for Compound Interest Calculation
 
 Simple Java Spring boot application.
